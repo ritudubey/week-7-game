@@ -1,0 +1,37 @@
+
+body{
+	background-color: burlywood;
+}
+legend {
+	background-color: lightslategray;
+	color: #fff;
+	text-align: center;
+	padding: 10px 0 10px 0;
+}
+
+.jumbotron {
+	background-color: cadetblue;
+	color: #fff;
+	text-align: center;
+	padding: 30px 0 30px 0;
+	margin:0;
+
+}
+
+body {
+	font-family: 'liquid_crystalregular', sans-serif;
+	user-select: none;
+	user-drag: none;
+}
+
+.clock {
+	height: 40px;
+	width: 70%;
+	line-height: 10px;  
+	margin: 15px auto 0;
+	padding: 0 10px;
+	color: #eee;
+	text-align: center;
+}
+
+
